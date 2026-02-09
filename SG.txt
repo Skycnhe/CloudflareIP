@@ -1,58 +1,20 @@
-162.159.0.6#sg 【新加坡】 SG
-172.64.32.1#sg 【新加坡】 SG
-162.159.0.3#sg 【新加坡】 SG
-172.64.32.2#sg 【新加坡】 SG
-162.159.0.8#sg 【新加坡】 SG
-172.64.32.4#sg 【新加坡】 SG
-172.64.32.6#sg 【新加坡】 SG
-172.64.32.7#sg 【新加坡】 SG
-108.162.192.5#sg 【新加坡】 SG
-108.162.192.9#sg 【新加坡】 SG
-ois.app', port=443): Max retries exceeded with url: /json/172.64.32.1 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-172.64.32.1#sg 【新加坡】 SG
-ipwhois.app错误 162.159.0.3: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/162.159.0.3 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-162.159.0.3#sg 【新加坡】 SG
-ipwhois.app错误 172.64.32.2: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/172.64.32.2 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-172.64.32.2#sg 【新加坡】 SG
-ipwhois.app错误 162.159.0.8: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/162.159.0.8 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-162.159.0.8#sg 【新加坡】 SG
-ipwhois.app错误 172.64.32.4: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/172.64.32.4 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-172.64.32.4#sg 【新加坡】 SG
-ipwhois.app错误 172.64.32.6: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/172.64.32.6 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-172.64.32.6#sg 【新加坡】 SG
-ipwhois.app错误 172.64.32.7: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/172.64.32.7 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-172.64.32.7#sg 【新加坡】 SG
-ipwhois.app错误 108.162.192.5: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/108.162.192.5 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-108.162.192.5#sg 【新加坡】 SG
-ipwhois.app错误 108.162.192.9: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/108.162.192.9 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-108.162.192.9#sg 【新加坡】 SG
-ipwhois.app错误 108.162.192.1: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/108.162.192.1 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-108.162.192.1#sg 【新加坡】 SG
-ipwhois.app错误 162.159.0.4: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/162.159.0.4 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-162.159.0.4#sg 【新加坡】 SG
-ipwhois.app错误 108.162.192.2: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/108.162.192.2 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-108.162.192.2#sg 【新加坡】 SG
-ipwhois.app错误 162.159.0.2: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/162.159.0.2 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-162.159.0.2#sg 【新加坡】 SG
-ipwhois.app错误 108.162.192.6: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/108.162.192.6 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-108.162.192.6#sg 【新加坡】 SG
-ipwhois.app错误 172.64.32.3: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/172.64.32.3 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-172.64.32.3#sg 【新加坡】 SG
-ipwhois.app错误 162.159.0.9: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/162.159.0.9 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-162.159.0.9#sg 【新加坡】 SG
-ipwhois.app错误 108.162.192.7: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/108.162.192.7 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-108.162.192.7#sg 【新加坡】 SG
-ipwhois.app错误 162.159.0.1: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/162.159.0.1 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-162.159.0.1#sg 【新加坡】 SG
-ipwhois.app错误 172.64.32.5: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/172.64.32.5 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
 172.64.32.5#sg 【新加坡】 SG
-ipwhois.app错误 162.159.0.6: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/162.159.0.6 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-ipwhois.app错误 172.64.32.1: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/172.64.32.1 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-ipwhois.app错误 162.159.0.3: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/162.159.0.3 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-ipwhois.app错误 172.64.32.2: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/172.64.32.2 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-ipwhois.app错误 162.159.0.8: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/162.159.0.8 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-ipwhois.app错误 172.64.32.4: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/172.64.32.4 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-ipwhois.app错误 172.64.32.6: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/172.64.32.6 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-ipwhois.app错误 172.64.32.7: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/172.64.32.7 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-ipwhois.app错误 108.162.192.5: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/108.162.192.5 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
-ipwhois.app错误 108.162.192.9: HTTPSConnectionPool(host='ipwhois.app', port=443): Max retries exceeded with url: /json/108.162.192.9 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1017)')))
+172.64.32.4#sg 【新加坡】 SG
+162.159.0.3#sg 【新加坡】 SG
+172.64.32.7#sg 【新加坡】 SG
+162.159.0.4#sg 【新加坡】 SG
+172.64.32.3#sg 【新加坡】 SG
+108.162.192.1#sg 【新加坡】 SG
+108.162.192.7#sg 【新加坡】 SG
+108.162.192.3#sg 【新加坡】 SG
+108.162.192.2#sg 【新加坡】 SG
+172.64.32.8#sg 【新加坡】 SG
+108.162.192.8#sg 【新加坡】 SG
+108.162.192.6#sg 【新加坡】 SG
+162.159.0.8#sg 【新加坡】 SG
+172.64.32.9#sg 【新加坡】 SG
+172.64.32.6#sg 【新加坡】 SG
+108.162.192.9#sg 【新加坡】 SG
+162.159.0.7#sg 【新加坡】 SG
+172.64.32.2#sg 【新加坡】 SG
+162.159.0.2#sg 【新加坡】 SG
